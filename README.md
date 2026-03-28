@@ -33,9 +33,8 @@
 ---
 
 <h2 align="center">🧠 Tech Stack</h2>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp ,django,fastapi,flask,postgresql,AWS" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,django,fastapi,flask,postgresql,aws" />
 </div>
 
 <br/>
